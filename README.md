@@ -1,1 +1,2 @@
 # ranbridge-responsive-landing-page
+The SmartWatchX Landing Page is a fully responsive marketing webpage designed for a fictional product — a next-generation smartwatch that tracks health, fitness, and lifestyle metrics. The main objective of this project is to design and implement a conversion-optimized, mobile-first landing page that effectively communicates the product’s value through a clean and engaging interface.
